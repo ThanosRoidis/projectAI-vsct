@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Image list prediction</title>
+  <style type="text/css">
+   img {
+     width:200px;
+   }
+  </style>
+  </head>
+  <body>
+
+<h1>Visual Story Cloze Test</h1>
+<h2>Athanasios Efthymiou, Athanasios Roidis, Georgios Sidiropoulos</h2>
+<table>
+<tbody>
